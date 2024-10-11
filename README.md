@@ -66,9 +66,9 @@ ___
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sql&logoColor=097CDB)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=703aff)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=703aff)](https://getbootstrap.com/)
-[![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=00FF00)](https://getbootstrap.com/)
-[![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=celery&logoColor=006400)](https://getbootstrap.com/)
-[![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=FF0000)](https://getbootstrap.com/)
+[![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=00FF00)](https://nginx.org/ru/)
+[![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=celery&logoColor=006400)](https://docs.celeryq.dev/en/stable/index.html)
+[![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=FF0000)](https://ru.wikipedia.org/wiki/Redis)
 
 ### 🔨Инструменты:
 [![PyCharm](https://img.shields.io/badge/-pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=e9fd01)](https://www.jetbrains.com/pycharm/download/?section=windows)
@@ -78,7 +78,7 @@ ___
 
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=097CDB)](https://hub.docker.com)
 [![Docker Compose](https://img.shields.io/badge/-Docker_compose-090909?style=for-the-badge&logo=docker&logoColor=097CDB)](https://hub.docker.com)
-[![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=#FF7F00)](https://hub.docker.com)
+[![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=#FF7F00)](https://www.postman.com/)
 
 ### 🌐Социальные сети:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/BlackMarvel)
