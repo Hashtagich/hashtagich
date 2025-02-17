@@ -47,6 +47,9 @@ ___
 [![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=00FF00)](https://nginx.org/ru/)
 [![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=celery&logoColor=006400)](https://docs.celeryq.dev/en/stable/index.html)
 [![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=FF0000)](https://ru.wikipedia.org/wiki/Redis)
+![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger&logoColor=17952c)
+
+
 
 ### 🔨Инструменты:
 [![PyCharm](https://img.shields.io/badge/-pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=e9fd01)](https://www.jetbrains.com/pycharm/download/?section=windows)
